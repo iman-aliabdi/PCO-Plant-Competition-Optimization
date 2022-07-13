@@ -1,4 +1,4 @@
-# PCO-Plant-Competition-Optimization
+# Plant competition optimization: A novel metaheuristic algorithm
 Source code of PCO, Plant Competition Optimization Algorithm
 
 Link of the paper:
